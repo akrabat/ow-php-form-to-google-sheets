@@ -1,0 +1,14 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "OpenWhisk PHP action to store data from an HTML form into Google Sheets.",
+  "main": "handler.js",
+  "keywords": [
+    "serverless",
+    "openwhisk"
+  ],
+  "devDependencies": {
+    "serverless-openwhisk": ">=0.13.0"
+  },
+  "private": true
+}
